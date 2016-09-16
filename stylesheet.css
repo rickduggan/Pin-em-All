@@ -1,0 +1,15 @@
+
+
+.uiButton {
+    width: 100%;
+    margin:auto;
+    margin-bottom:0.4em;
+    font-family: Roboto, sans-serif;
+    font-size:2em;
+}
+
+a {
+    display: block;
+    text-align: center;
+}
+
