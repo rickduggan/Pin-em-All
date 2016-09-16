@@ -1,4 +1,8 @@
 # Pin-em-All
 Simple Chrome extension which makes mass tab pinning easier
 
-My first project on GitHub
+Works thanks to the chrome.tabs API. Simple UI allows user to pin/unpin all currently open Chrome tabs with one button click.
+
+
+
+
